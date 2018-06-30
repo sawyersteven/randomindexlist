@@ -6,7 +6,7 @@ Ever wonder why lists start at `0`? Become the master of your own list objects a
 ### Installation
 RandomIndexList has been tested on Python 3.4.0 and 2.7.14. Others versions are likely to work just as well, but it would be best to just completely avoid this package if you value your sanity.
 
-Install via pip with `pip install randomindexlist`
+Install via pip with `pip install RandomIndexList`
 
 
 ### Usage
