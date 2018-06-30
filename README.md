@@ -10,9 +10,9 @@ Install via pip with `pip install randomindexlist`
 
 
 ### Usage
-    RandomIndexList extends Python's built-in List class and can be used in the same manner.
+RandomIndexList extends Python's built-in List class and can be used in the same manner.
 
-	If you like to live on the edge you can let RandomIndexList pick a starting index for you.
+If you like to live on the edge you can let RandomIndexList pick a starting index for you.
 	
     from RandomIndexList import RandomIndexList
     my_list = RandomIndexList(range(0, 5))
