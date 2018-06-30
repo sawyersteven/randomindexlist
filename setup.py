@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="RandomIndexList",
-    version="1.1",
+    version="1.3",
     author="SawyerSteven",
     author_email="sawyerstevenk@gmail.com",
     description="Start lists at any position. Because you can!",
@@ -14,8 +14,7 @@ setuptools.setup(
     url="https://github.com/sawyersteven/randomindexlist",
     packages=setuptools.find_packages(),
     classifiers=(
-		"Programming Language :: Python :: 2",
-        "Programming Language :: Python :: 3",
+		"Programming Language :: Python ",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ),
