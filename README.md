@@ -1,4 +1,4 @@
-![Logo](https://github.com/sawyersteven/randomindexlist/img/Logo_wide.png)
+![Logo](https://raw.githubusercontent.com/sawyersteven/randomindexlist/master/img/Logo_wide.png)
 
 # RandomIndexList
 Ever wonder why lists start at `0`? Become the master of your own list objects and wonder no more! With RandomIndexList you'll create arrays that start at whichever number you please, or let RandomIndexList's state-of-the-art randomizer select a completely arbitrary starting index for you!
